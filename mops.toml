@@ -1,0 +1,4 @@
+[dependencies]
+base = "0.14.3"
+assets = "0.2.2"
+datetime = "0.3.0"
